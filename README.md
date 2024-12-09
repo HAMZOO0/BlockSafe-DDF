@@ -60,4 +60,5 @@ The **Medical Record System** is a dApp built using BlockSafe to securely store 
 - Ethereum development environment (e.g., Hardhat)  
 
 
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/2a979bf4-9068-4dc0-beae-b002cde07930">
 
